@@ -14,7 +14,7 @@
             <category>2090</category>
             <type>sell</type>
             <phone>+375291922000</phone>
-            <price>1000.00 </price>
+            <price>10000.00 </price>
             <currency>BYN</currency>
             <contact_person>
                 <![CDATA[ ООО Мотоэнергия ]]>
@@ -46,7 +46,7 @@
             <category>2090</category>
             <type>sell</type>
             <phone>+375291922000</phone>
-            <price>20000.55</price>
+            <price>11000.55</price>
             <currency>BYN</currency>
             <contact_person>
                 <![CDATA[ ООО Мотоэнергия ]]>
@@ -82,7 +82,7 @@
             <category>2090</category>
             <type>sell</type>
             <phone>+375291922000</phone>
-            <price>30000.55</price>
+            <price>12000.55</price>
             <currency>BYN</currency>
             <contact_person>
                 <![CDATA[ ООО Мотоэнергия ]]>
@@ -136,6 +136,34 @@
                 <photo picture="https://amoto.by/upload/iblock/173/85siphgqc9wcv416kbc9la0aiv619jex/nfrlnj3ptpdilsf5ill59oewym85lc3d.jpg"/>
                 <photo picture="https://amoto.by/upload/iblock/2ac/jdjcl44yeqo010khw2beas9oateybcwz/njip7elf26p8bg9ci2lkz1pgvs3sl1zm.jpg"/>
                 <photo picture="https://amoto.by/upload/iblock/2ac/jdjcl44yeqo010khw2beas9oateybcwz/njip7elf26p8bg9ci2lkz1pgvs3sl1zm.jpg"/>
+            </photos>
+            <equipments_type>7</equipments_type>
+            <condition>2</condition>
+        </record>
+          <record>
+            <unid>5014</unid>
+            <area>22</area>
+            <region>7</region>
+            <remuneration_type>1</remuneration_type>
+            <subject>
+                <![CDATA[ 4 Новое объявление импорта ]]>
+            </subject>
+            <body>
+                <![CDATA[ 4 Новое объявление импорта<br /><br />Длинная и широкая грузовая платформа и высокая грузоподъёмность позволяют перевозить на электрокаре даже крупную технику и автомобили!<br /><br />Особенности платформенного электрокара Rutrike База:<br /><ul><li> Бесщёточный редукторный электромотор 3000 Ватт;</li><li>Колоссальные габариты 5000х1800х1200 мм;</li><li>Прочная сталь кузова;</li><li>Большие широкие колёса;</li><li>Удобное управление: руль автомобильного типа, педаль акселератора, переключение режимов хода;</li><li>Пониженная передача для движения на подъём при полной загрузке;</li><li>Рессорная амортизация.</li></ul> ]]>
+            </body>
+            <category>2090</category>
+            <type>sell</type>
+            <phone>+375291922000</phone>
+            <price>14000.55</price>
+            <currency>BYN</currency>
+            <contact_person>
+                <![CDATA[ ООО Мотоэнергия ]]>
+            </contact_person>
+            <link>
+                <![CDATA[ https://amoto.by/catalog/gruzovoy-elektrotransport/platformennye-telezhki/platformennaya-telezhka-elektricheskaya-rutrike-baza/ ]]>
+            </link>
+            <photos>
+                <photo picture="https://amoto.by/upload/iblock/3df/o6zhc65yiovvrkme14hkvci9qyrpcls4/oedb01vx5envvcg98goqraybhje0jdew.jpg"/>
             </photos>
             <equipments_type>7</equipments_type>
             <condition>2</condition>
