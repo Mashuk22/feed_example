@@ -1,7 +1,7 @@
 <uedb>
     <records>
         <record>
-            <unid>4912</unid>
+            <unid>49121000000</unid>
             <area>22</area>
             <region>7</region>
             <remuneration_type>1</remuneration_type>
@@ -33,7 +33,7 @@
             <condition>2</condition>
         </record>
         <record>
-            <unid>5008</unid>
+            <unid>5008000002</unid>
             <area>22</area>
             <region>7</region>
             <remuneration_type>1</remuneration_type>
@@ -69,7 +69,7 @@
             <condition>2</condition>
         </record>
         <record>
-            <unid>5007</unid>
+            <unid>5007000001</unid>
             <area>22</area>
             <region>7</region>
             <remuneration_type>1</remuneration_type>
