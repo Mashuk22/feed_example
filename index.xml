@@ -13,6 +13,8 @@
 </body>
 <category>2010</category>
 <type>sell</type>
+<phone>+375296789055</phone>
+<phone_hidden>1</phone_hidden>
 <price>33250.00</price>
 <currency>USD</currency>
 <contact_person>Отдел продаж</contact_person>
@@ -77,6 +79,7 @@
 <category>2010</category>
 <type>sell</type>
 <phone>+375296789055</phone>
+<phone_hidden>0</phone_hidden>
 <price>18450.00</price>
 <currency>USD</currency>
 <contact_person>Отдел продаж</contact_person>
