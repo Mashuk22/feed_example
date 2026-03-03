@@ -1,6 +1,36 @@
 <uedb>
 <records>
 <record>
+<unid>5243523752111</unid>
+<region>3</region>
+<area>9</area>
+<remuneration_type>1</remuneration_type>
+<body>Объявление которое должно приявязаться 12022</body>
+<category>1010</category>
+<type>sell</type>
+<contact_person>Владимир Всеволодович Михневич</contact_person>
+<coordinates>53.6791,23.8637</coordinates>
+<address>г. Гродно, Магистральная ул., д. 10</address>
+<phone>+375290006034</phone>
+<photos>
+<photo picture="https://static.realt.by/pict/user/to/s/023312o6isto/3403500e64e4deb8.jpeg"/>
+</photos>
+<re_contract>650018 от 16.09.2025</re_contract>
+<price>100000.00</price>
+<currency>USD</currency>
+<rooms>3</rooms>
+<condition>2</condition>
+<size>65.8</size>
+<size_living_space>45</size_living_space>
+<size_kitchen>10</size_kitchen>
+<year_built>2025</year_built>
+<link>https://minsk.bugrealt.by/flat-sale-89-s/</link>
+<floor>2</floor>
+<re_number_floors>10</re_number_floors>
+<flat_repair>1</flat_repair>
+<subject> приявязка 12022</subject>
+</record>
+<record>
 <unid>52436758342357</unid>
 <region>3</region>
 <area>9</area>
