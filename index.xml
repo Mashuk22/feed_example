@@ -114,5 +114,29 @@
 <square_meter>339</square_meter>
 <property_type>1</property_type>
 </record>
+<record>
+<unid>524346658948</unid>
+<region>1</region>
+<area>31</area>
+<remuneration_type>1</remuneration_type>
+<body>№ 240330 Капитальное строение в собственность, в г. Высокое, общей площадью - 232,8 кв.м. Расположено на земельном мумуми)</body>
+<category>1050</category>
+<type>sell</type>
+<contact_person>Александр</contact_person>
+<coordinates>52.372029,23.368855</coordinates>
+<address>г. Высокое, Ленина ул., </address>
+<phone>+375290444444</phone>
+<photos>
+</photos>
+<re_contract>240330 от 27.09.2024</re_contract>
+<subject>Два номера, второй суп, нет 12022</subject>
+<condition>1</condition>
+<size>232.80</size>
+<link>https://minsk.bugrealt.by/office-sale-109-s/</link>
+<price>79000.00</price>
+<currency>USD</currency>
+<square_meter>339</square_meter>
+<property_type>1</property_type>
+</record>
 </records>
 </uedb>
