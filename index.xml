@@ -11,8 +11,9 @@
 <contact_person>Владимир Всеволодович Михневич</contact_person>
 <coordinates>53.6791,23.8637</coordinates>
 <address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375249009999</phone>
+<phone>+375290006034</phone>
 <photos>
+<photo picture="https://static.realt.by/pict/user/e5/1/02333qymn1e5/a48c3dd23b93c089.jpeg"/>
 </photos>
 <re_contract>650018 от 16.09.2025</re_contract>
 <price>100000.00</price>
@@ -40,7 +41,7 @@
 <contact_person>Владимир Всеволодович Михневич</contact_person>
 <coordinates>53.6791,23.8637</coordinates>
 <address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375290006034</phone>
+<phone>+375249009999</phone>
 <photos>
 <photo picture="https://static.realt.by/pict/user/to/s/023312o6isto/3403500e64e4deb8.jpeg"/>
 </photos>
@@ -57,7 +58,7 @@
 <floor>2</floor>
 <re_number_floors>10</re_number_floors>
 <flat_repair>1</flat_repair>
-<subject>Гродно, Магистральная ул., д. 10, 3-комн.</subject>
+<subject>нет привязки 12022</subject>
 </record>
 <record>
 <unid>524367574745745</unid>
@@ -70,12 +71,12 @@
 <contact_person>Людмила</contact_person>
 <coordinates>52.550086,23.652102</coordinates>
 <address>д. Столповиски, , д. 1</address>
-<phone>+375249009999</phone>
+<phone>+375290006034,+375249009999</phone>
 <photos>
 <photo picture="https://static.realt.by/pict/user/e5/1/02333qymn1e5/a48c3dd23b93c089.jpeg"/>
 </photos>
 <re_contract>240774 от 03.02.2025</re_contract>
-<subject>Продажа дома, д. Столповиски</subject>
+<subject>Два номера , первый суп, есть 12022</subject>
 <price>120000.00</price>
 <currency>USD</currency>
 <re_garden_community>1</re_garden_community>
@@ -103,12 +104,12 @@
 <contact_person>Александр</contact_person>
 <coordinates>52.372029,23.368855</coordinates>
 <address>г. Высокое, Ленина ул., </address>
-<phone>+375290006034</phone>
+<phone>+375249009999,+375290006034</phone>
 <photos>
 <photo picture="https://static.realt.by/pict/user/ou/a/02334khbxaou/91d8b809bade71ac.jpeg"/>
 </photos>
 <re_contract>240330 от 27.09.2024</re_contract>
-<subject>Ожидаю 12023</subject>
+<subject>Два номера, второй суп, нет 12022</subject>
 <condition>1</condition>
 <size>232.80</size>
 <link>https://minsk.bugrealt.by/office-sale-109-s/</link>
