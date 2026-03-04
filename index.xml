@@ -1,118 +1,33 @@
 <uedb>
 <records>
-<record>
-<unid>524343554364</unid>
-<region>3</region>
-<area>9</area>
-<remuneration_type>1</remuneration_type>
-<body>Объявление которое должно приявязаться 12022</body>
-<category>1010</category>
-<type>sell</type>
-<contact_person>Владимир Всеволодович Михневич</contact_person>
-<coordinates>53.6791,23.8637</coordinates>
-<address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375290006034</phone>
-<photos>
-</photos>
-<re_contract>650018 от 16.09.2025</re_contract>
-<price>100000.00</price>
-<currency>USD</currency>
-<rooms>3</rooms>
-<condition>2</condition>
-<size>65.8</size>
-<size_living_space>45</size_living_space>
-<size_kitchen>10</size_kitchen>
-<year_built>2025</year_built>
-<link>https://minsk.bugrealt.by/flat-sale-89-s/</link>
-<floor>2</floor>
-<re_number_floors>10</re_number_floors>
-<flat_repair>1</flat_repair>
-<subject> приявязка 12022</subject>
-</record>
-<record>
-<unid>524343554365</unid>
-<region>3</region>
-<area>9</area>
-<remuneration_type>1</remuneration_type>
-<body>Объявление № 650018 650018 Ж/К МИР НОВАЯ КВАРТИРА, в замечательном месте города Гродно, ул. Магистральная. Квартира расположена на 2-ом этаже 10-ти этажного кирпичного дома, 2025 года</body>
-<category>1010</category>
-<type>sell</type>
-<contact_person>Владимир Всеволодович Михневич</contact_person>
-<coordinates>53.6791,23.8637</coordinates>
-<address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375249009999</phone>
-<photos>
-</photos>
-<re_contract>650018 от 16.09.2025</re_contract>
-<price>100000.00</price>
-<currency>USD</currency>
-<rooms>3</rooms>
-<condition>2</condition>
-<size>65.8</size>
-<size_living_space>45</size_living_space>
-<size_kitchen>10</size_kitchen>
-<year_built>2025</year_built>
-<link>https://minsk.bugrealt.by/flat-sale-89-s/</link>
-<floor>2</floor>
-<re_number_floors>10</re_number_floors>
-<flat_repair>1</flat_repair>
-<subject>нет привязки 12022</subject>
-</record>
-<record>
-<unid>524343554366</unid>
-<region>1</region>
-<area>31</area>
-<remuneration_type>1</remuneration_type>
-<body>№ 240774 Продается уникальный домик из бруса в заповеднике Беловежская Пуща!!! Местоположение: Пущанский лес, Беловежская Пуща. Тип: Домик из бруса с современным ремонтом. Уникальная </body>
-<category>1020</category>
-<type>sell</type>
-<contact_person>Людмила</contact_person>
-<coordinates>52.550086,23.652102</coordinates>
-<address>д. Столповиски, , д. 1</address>
-<phone>+375290006034,+375249009999</phone>
-<photos>
-</photos>
-<re_contract>240774 от 03.02.2025</re_contract>
-<subject>Два номера , первый суп, есть 12022</subject>
-<price>120000.00</price>
-<currency>USD</currency>
-<re_garden_community>1</re_garden_community>
-<size_area>25</size_area>
-<link>https://minsk.bugrealt.by/house-19-s/</link>
-<re_water>5</re_water>
-<house_type_for_sell>1</house_type_for_sell>
-<condition>1</condition>
-<size>83.3</size>
-<size_living_space>42.2</size_living_space>
-<size_kitchen>13.9</size_kitchen>
-<wall_material>9</wall_material>
-<re_heating>15</re_heating>
-<electricity>1</electricity>
-<house_number_floors>1</house_number_floors>
-</record>
-<record>
-<unid>524343554367</unid>
-<region>1</region>
-<area>31</area>
-<remuneration_type>1</remuneration_type>
-<body>№ 240330 Капитальное строение в собственность, в г. Высокое, общей площадью - 232,8 кв.м. Расположено на земельном мумуми)</body>
-<category>1050</category>
-<type>sell</type>
-<contact_person>Александр</contact_person>
-<coordinates>52.372029,23.368855</coordinates>
-<address>г. Высокое, Ленина ул., </address>
-<phone>+375249009999,+375290006034</phone>
-<photos>
-</photos>
-<re_contract>240330 от 27.09.2024</re_contract>
-<subject>Два номера, второй суп, нет 12022</subject>
-<condition>1</condition>
-<size>232.80</size>
-<link>https://minsk.bugrealt.by/office-sale-109-s/</link>
-<price>79000.00</price>
-<currency>USD</currency>
-<square_meter>339</square_meter>
-<property_type>1</property_type>
-</record>
+  <record>
+      <unid>23567285723</unid>
+      <area>37</area>
+      <region>1</region>
+      <remuneration_type>1</remuneration_type>
+      <subject><![CDATA[Б/у запчасти для Rover 200 R3 2.0d (разбор)]]></subject>
+      <body><![CDATA[Добрый день, в разборе имеется несколько автомобилей:
+- Ровер 200 (220) R3 (хетчбек, 2.0 дизель)
+Все детали хорошего качества. Имеются детальные фото каждой из них.  Смотрите другие объявления в нашем профиле
+Отправляем Европочтой, Белпочтой, транспортной компанией.]]></body>
+      <category>2040</category>
+      <type>sell</type>
+      <phone>+375290006034</phone>
+      <price>5.00</price>
+      <currency>BYN</currency>
+      <contact_person><![CDATA[Александр]]></contact_person>
+      <delivery_pro>1</delivery_pro>
+      <users_synonyms><![CDATA[Rover, 200, HHR, Ровер, разбор]]></users_synonyms>
+      <condition>1</condition>
+      <spares_type>2</spares_type>
+      <cars_brand_v2>category_2040.mark_rover</cars_brand_v2>
+      <cars_model_v2>category_2040.mark_rover.model_200</cars_model_v2>
+      <cars_gen_v2>category_2040.mark_rover.model_200.generation_200_iii_r312313</cars_gen_v2>
+      <spares_passenger_group>6</spares_passenger_group>
+      <spares_gearbox>2</spares_gearbox>
+      <photos>
+        <photo picture="https://maisan.by/wp-content/uploads/Rover-200-R3-Kufar.png" />
+      </photos>
+    </record>
 </records>
 </uedb>
