@@ -11,7 +11,7 @@
 <contact_person>Владимир Всеволодович Михневич</contact_person>
 <coordinates>53.6791,23.8637</coordinates>
 <address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375249009999</phone>
+<phone>+375290000002</phone>
 <photos>
 </photos>
 <re_contract>650018 от 16.09.2025</re_contract>
@@ -27,7 +27,7 @@
 <floor>2</floor>
 <re_number_floors>10</re_number_floors>
 <flat_repair>1</flat_repair>
-<subject> Была ривязка 11719, стала к 1014 </subject>
+<subject>Менеджер</subject>
 </record>
 <record>
 <unid>3578497983473983</unid>
@@ -40,7 +40,7 @@
 <contact_person>Владимир Всеволодович Михневич</contact_person>
 <coordinates>53.6791,23.8637</coordinates>
 <address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375249009999</phone>
+<phone>+375293330001</phone>
 <photos>
 </photos>
 <re_contract>650018 от 16.09.2025</re_contract>
@@ -56,63 +56,7 @@
 <floor>2</floor>
 <re_number_floors>10</re_number_floors>
 <flat_repair>1</flat_repair>
-<subject><<Была привязка 12022, стала 1014</subject>
-</record>
-<record>
-<unid>524346454344634</unid>
-<region>1</region>
-<area>31</area>
-<remuneration_type>1</remuneration_type>
-<body>№ 240774 Продается уникальный домик из бруса в заповеднике Беловежская Пуща!!! Местоположение: Пущанский лес, Беловежская Пуща. Тип: Домик из бруса с современным ремонтом. Уникальная </body>
-<category>1020</category>
-<type>sell</type>
-<contact_person>Людмила</contact_person>
-<coordinates>52.550086,23.652102</coordinates>
-<address>д. Столповиски, , д. 1</address>
-<phone>+375249009999</phone>
-<photos>
-</photos>
-<re_contract>240774 от 03.02.2025</re_contract>
-<subject>Номер телефона супервайзера</subject>
-<price>120000.00</price>
-<currency>USD</currency>
-<re_garden_community>1</re_garden_community>
-<size_area>25</size_area>
-<link>https://minsk.bugrealt.by/house-19-s/</link>
-<re_water>5</re_water>
-<house_type_for_sell>1</house_type_for_sell>
-<condition>1</condition>
-<size>83.3</size>
-<size_living_space>42.2</size_living_space>
-<size_kitchen>13.9</size_kitchen>
-<wall_material>9</wall_material>
-<re_heating>15</re_heating>
-<electricity>1</electricity>
-<house_number_floors>1</house_number_floors>
-</record>
-<record>
-<unid>52434653654659</unid>
-<region>1</region>
-<area>31</area>
-<remuneration_type>1</remuneration_type>
-<body>№ 240330 Капитальное строение в собственность, в г. Высокое, общей площадью - 232,8 кв.м. Расположено на земельном мумуми)</body>
-<category>1050</category>
-<type>sell</type>
-<contact_person>Александр</contact_person>
-<coordinates>52.372029,23.368855</coordinates>
-<address>г. Высокое, Ленина ул., </address>
-<phone>+375290006169,+375249009999</phone>
-<photos>
-</photos>
-<re_contract>240330 от 27.09.2024</re_contract>
-<subject>Два номера, первый 11719 второй 1400</subject>
-<condition>1</condition>
-<size>232.80</size>
-<link>https://minsk.bugrealt.by/office-sale-109-s/</link>
-<price>79000.00</price>
-<currency>USD</currency>
-<square_meter>339</square_meter>
-<property_type>1</property_type>
+<subject>Супервайзер</subject>
 </record>
 </records>
 </uedb>
