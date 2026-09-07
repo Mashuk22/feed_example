@@ -1,62 +1,98 @@
 <uedb>
 <records>
 <record>
-<unid>52435542335529</unid>
-<region>3</region>
-<area>9</area>
+<unid>84f387a4-4466-4ac0-8f4c-5d14a604f990</unid>
+<area>26</area>
+<region>7</region>
 <remuneration_type>1</remuneration_type>
-<body>Объявление которое должно приявязаться 12022</body>
-<category>1010</category>
+<subject>
+<![CDATA[ Продаётся 3-комн. квартира - Минск, Варвашени, 8/1 ]]>
+</subject>
+<body>
+<![CDATA[ Продается 3-комн. квартира в 5 минутах ходьбы от ст.м. "Могилевская".
+Адрес - г. Минск, ул. Варвашени, 8/1.
+
+Характеристики квартиры:
+Общая площадь - 54,2 кв.м.;
+Жилая площадь - 34,4 кв.м.
+ ]]>
+</body>
 <type>sell</type>
-<contact_person>Владимир Всеволодович Михневич</contact_person>
-<coordinates>53.6791,23.8637</coordinates>
-<address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375259505050</phone>
+<price>300000.00</price>
+<currency>BYN</currency>
+<phone>
+<![CDATA[ +375445415050, +375255415050, +375295415050 ]]>
+</phone>
+<contact_person>АЛИВЕРА</contact_person>
+<condition>1</condition>
+<category>1010</category>
+<metro>12</metro>
+<re_metro_afoot>5</re_metro_afoot>
+<re_metro_transport>1</re_metro_transport>
 <photos>
+<photo picture="https://media.ilvo.pro/image/8a7cbf7274def2e0a72761119367a094"/>
 </photos>
-<re_contract>650018 от 16.09.2025</re_contract>
-<price>100000.00</price>
-<currency>USD</currency>
+<re_contract>№51/1 от 21.05.2026</re_contract>
 <rooms>3</rooms>
-<condition>2</condition>
-<size>65.8</size>
-<size_living_space>45</size_living_space>
-<size_kitchen>10</size_kitchen>
-<year_built>2025</year_built>
-<link>https://minsk.bugrealt.by/flat-sale-89-s/</link>
-<floor>2</floor>
-<re_number_floors>10</re_number_floors>
+<size>54.2</size>
+<size_living_space>34.4</size_living_space>
+<size_kitchen>7.3</size_kitchen>
+<bathroom>1</bathroom>
+<balcony>4</balcony>
+<floor>1</floor>
+<re_number_floors>5</re_number_floors>
+<house_type>3</house_type>
+<year_built>1968</year_built>
+<coordinates>53.8657,27.673267</coordinates>
+<flat_ceiling_height>1</flat_ceiling_height>
 <flat_repair>1</flat_repair>
-<subject>Менеджер</subject>
 </record>
 <record>
-<unid>524355434645786</unid>
-<region>3</region>
-<area>9</area>
+<unid>81f387a4-2424-4ac0-8f4c-5d14a604f981</unid>
+<area>26</area>
+<region>7</region>
 <remuneration_type>1</remuneration_type>
-<body>Объявление № 650018 650018 Ж/К МИР НОВАЯ КВАРТИРА, в замечательном месте города Гродно, ул. Магистральная. Квартира расположена на 2-ом этаже 10-ти этажного кирпичного дома, 2025 года</body>
-<category>1010</category>
+<subject>
+<![CDATA[ Продаётся 3-комн. квартира - Минск, Варвашени, 8/1 ]]>
+</subject>
+<body>
+<![CDATA[ Продается 3-комн. квартира в 5 минутах ходьбы от ст.м. "Могилевская".
+Адрес - г. Минск, ул. Варвашени, 8/1.
+
+Характеристики квартиры:
+Общая площадь - 54,2 кв.м.;
+Жилая площадь - 34,4 кв.м.
+ ]]>
+</body>
 <type>sell</type>
-<contact_person>Владимир Всеволодович Михневич</contact_person>
-<coordinates>53.6791,23.8637</coordinates>
-<address>г. Гродно, Магистральная ул., д. 10</address>
-<phone>+375293330001</phone>
+<price>300000.00</price>
+<currency>BYN</currency>
+<phone>
+<![CDATA[ +375445415050, +375255415050, +375295415050 ]]>
+</phone>
+<contact_person>АЛИВЕРА</contact_person>
+<condition>1</condition>
+<category>1010</category>
+<metro>12</metro>
+<re_metro_afoot>5</re_metro_afoot>
+<re_metro_transport>1</re_metro_transport>
 <photos>
+<photo picture="https://media.ilvo.pro/image/764740e032d46e0d13b0b04ac2de8bb8"/>
 </photos>
-<re_contract>650018 от 16.09.2025</re_contract>
-<price>100000.00</price>
-<currency>USD</currency>
+<re_contract>№51/1 от 21.05.2026</re_contract>
 <rooms>3</rooms>
-<condition>2</condition>
-<size>65.8</size>
-<size_living_space>45</size_living_space>
-<size_kitchen>10</size_kitchen>
-<year_built>2025</year_built>
-<link>https://minsk.bugrealt.by/flat-sale-89-s/</link>
-<floor>2</floor>
-<re_number_floors>10</re_number_floors>
+<size>54.2</size>
+<size_living_space>34.4</size_living_space>
+<size_kitchen>7.3</size_kitchen>
+<bathroom>1</bathroom>
+<balcony>ХОРОШО</balcony>
+<floor>1</floor>
+<re_number_floors>5</re_number_floors>
+<house_type>3</house_type>
+<year_built>1968</year_built>
+<coordinates>53.8657,27.673267</coordinates>
+<flat_ceiling_height>1</flat_ceiling_height>
 <flat_repair>1</flat_repair>
-<subject>Супервайзер</subject>
 </record>
 </records>
 </uedb>
