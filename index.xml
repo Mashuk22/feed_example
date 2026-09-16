@@ -192,5 +192,53 @@
 <flat_repair>1</flat_repair>
 <address>Ул. Тестовая</address>
 </record>
+<record>
+<unid>81f387a4-2424-4ac0-8f4c-5d14a614f912</unid>
+<area>26</area>
+<region>7</region>
+<remuneration_type>1</remuneration_type>
+<subject>
+<![CDATA[ Продаётся 3-комн. квартира - Минск, Варвашени, 8/1 ]]>
+</subject>
+<body>
+<![CDATA[ Продается 3-комн. квартира в 5 минутах ходьбы от ст.м. "Могилевская".
+Адрес - г. Минск, ул. Варвашени, 8/1.
+
+Характеристики квартиры:
+Общая площадь - 54,2 кв.м.;
+Жилая площадь - 34,4 кв.м.
+ ]]>
+</body>
+<type>sell</type>
+<price>300000.00</price>
+<currency>BYN</currency>
+<phone>
+<![CDATA[ +375445415050, +375255415050, +375295415050 ]]>
+</phone>
+<contact_person>АЛИВЕРА</contact_person>
+<condition>1</condition>
+<category>1010</category>
+<metro>12</metro>
+<re_metro_afoot>5</re_metro_afoot>
+<re_metro_transport>1</re_metro_transport>
+<photos>
+<photo picture="https://media.ilvo.pro/image/764740e032d46e0d13b0b04ac2de8bb8"/>
+</photos>
+<re_contract>№51/1 от 21.05.2026</re_contract>
+<rooms>3</rooms>
+<size>54.2</size>
+<size_living_space>34.4</size_living_space>
+<size_kitchen>7.3</size_kitchen>
+<bathroom>1</bathroom>
+<balcony>ХОРОШО, 2</balcony>
+<floor>1</floor>
+<re_number_floors>5</re_number_floors>
+<house_type>3</house_type>
+<year_built>1968</year_built>
+<coordinates>53.8657,27.673267</coordinates>
+<flat_ceiling_height>1</flat_ceiling_height>
+<flat_repair>1</flat_repair>
+<address>Ул. Тестовая</address>
+</record>
 </records>
 </uedb>
