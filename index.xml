@@ -2,7 +2,7 @@
 <uedb>
    <records>
       <record>
-         <unid>84f387a4-4466-4ac0-1f3c-1d14a604f911</unid>
+         <unid>84f387a4-4466-4ac0-1f3c-1d14a604f910</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
@@ -16,7 +16,7 @@
          <condition>1</condition>
          <category>1010</category>
          <photos>
-            <photo picture="https://media.ilvo.pro/image/8a7cbf7274def2e0a72761119367a094"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images.jpeg"/>
          </photos>
          <rooms>3</rooms>
          <size>54.2</size>
