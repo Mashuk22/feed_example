@@ -2,7 +2,7 @@
 <uedb>
    <records>
       <record>
-         <unid>84f387a4-4466-4ac0-1f3c-1d14a604f910</unid>
+         <unid>84f387a4-4466-4ac0-1f3c-1d14a604f911</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
@@ -24,7 +24,6 @@
          <size_kitchen>7.3</size_kitchen>
          <bathroom>1</bathroom>
          <balcony>4</balcony>
-         <balcony>3</balcony>
          <floor>1</floor>
          <re_number_floors>5</re_number_floors>
          <house_type>3</house_type>
