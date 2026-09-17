@@ -38,7 +38,8 @@
 <size_living_space>34.4</size_living_space>
 <size_kitchen>7.3</size_kitchen>
 <bathroom>1</bathroom>
-<balcony>4, 1, 5</balcony>
+<balcony>4</balcony>
+<balcony>3</balcony>
 <floor>1</floor>
 <re_number_floors>5</re_number_floors>
 <house_type>3</house_type>
