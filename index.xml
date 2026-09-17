@@ -31,6 +31,7 @@
          <coordinates>53.8657,27.673267</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
          <flat_repair>1</flat_repair>
+         <address>Ул. Тестовая</address>
       </record>
    </records>
 </uedb>
