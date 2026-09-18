@@ -16,7 +16,8 @@
          <condition>1</condition>
          <category>1010</category>
          <photos>
-            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images.jpeg"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images1.jpeg"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images!.jpeg"/>
          </photos>
          <rooms>3</rooms>
          <size>54.2</size>
