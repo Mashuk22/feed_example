@@ -2,7 +2,7 @@
 <uedb>
    <records>
       <record>
-         <unid>14f387a4-4466-4ac0-1f3c-1d14a604f992</unid>
+         <unid>14f387a4-4466-4ac0-1f3c-1d14a904f993</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
@@ -16,7 +16,7 @@
          <condition>1</condition>
          <category>1010</category>
          <photos>
-            <photo picture="https://github.com/Mashuk22/feed_example/blob/main/images1.jpg"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images1.jpg"/>
             <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images!.jpeg"/>
          </photos>
          <rooms>10</rooms>
