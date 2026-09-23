@@ -19,11 +19,11 @@
             <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images1.jpeg"/>
             <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images!.jpeg"/>
          </photos>
-         <rooms>0</rooms>
-         <size>0</size>
+         <rooms>10</rooms>
+         <size>100</size>
          <size_living_space>0</size_living_space>
          <size_kitchen>0</size_kitchen>
-         <bathroom>5</bathroom>
+         <bathroom>10</bathroom>
          <balcony>7</balcony>
          <floor>0</floor>
          <re_number_floors>0</re_number_floors>
