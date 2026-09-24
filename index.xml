@@ -34,5 +34,40 @@
          <flat_repair>1</flat_repair>
          <address>Ул. Полевая</address>
       </record>
+      <record>
+         <unid>14f387a4-4466-4ac0-1f3c-1d14a904f911</unid>
+         <area>26</area>
+         <region>7</region>
+         <remuneration_type>1</remuneration_type>
+         <subject><![CDATA[Продаётся квартира]]></subject>
+         <body><![CDATA[Продается квартира в 150 минутах ходьбы от Жлобина.]]></body>
+         <type>sell</type>
+         <price>800000.00</price>
+         <currency>BYN</currency>
+         <phone><![CDATA[+375440000000]]></phone>
+         <contact_person>Продавец</contact_person>
+         <condition>1</condition>
+         <category>1010</category>
+         <photos>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images1.jpg"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images2.jpg"/>
+            <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images!.jpeg"/>
+         </photos>
+         <rooms>10</rooms>
+         <size>100</size>
+         <size_living_space>0</size_living_space>
+         <size_kitchen>0</size_kitchen>
+         <bathroom>10</bathroom>
+         <balcony>7</balcony>
+         <balcony>8</balcony>
+         <floor>0</floor>
+         <re_number_floors>0</re_number_floors>
+         <house_type>8</house_type>
+         <year_built>1901</year_built>
+         <coordinates>52.954324, 30.085046</coordinates>
+         <flat_ceiling_height>1</flat_ceiling_height>
+         <flat_repair>1</flat_repair>
+         <address>Ул. Полевая</address>
+      </record>
    </records>
 </uedb>
