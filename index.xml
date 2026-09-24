@@ -7,7 +7,7 @@
          <region>7</region>
          <remuneration_type>1</remuneration_type>
          <subject><![CDATA[Продаётся квартира]]></subject>
-         <body><![CDATA[Продается 3-комн. квартира в 105 минутах ходьбы от Жлобина.]]></body>
+         <body><![CDATA[Продается квартира в 150 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
          <price>800000.00</price>
          <currency>BYN</currency>
@@ -29,7 +29,7 @@
          <re_number_floors>0</re_number_floors>
          <house_type>8</house_type>
          <year_built>1901</year_built>
-         <coordinates>53.8657,27.673267</coordinates>
+         <coordinates>52.954324, 30.085046</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
          <flat_repair>1</flat_repair>
          <address>Ул. Полевая</address>
