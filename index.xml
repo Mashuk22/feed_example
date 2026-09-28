@@ -6,10 +6,10 @@
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся квартира]]></subject>
-         <body><![CDATA[150 минутах ходьбы от Жлобина.]]></body>
+         <subject><![CDATA[Продаётся 1 квартира]]></subject>
+         <body><![CDATA[100 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
-         <price>800000.00</price>
+         <price>700000.00</price>
          <currency>BYN</currency>
          <phone><![CDATA[+375440000000]]></phone>
          <contact_person>Продавец</contact_person>
@@ -21,14 +21,14 @@
          </photos>
          <rooms>10</rooms>
          <size>100</size>
-         <size_living_space>0</size_living_space>
-         <size_kitchen>0</size_kitchen>
-         <bathroom>10</bathroom>
-         <balcony>7</balcony>
-         <floor>0</floor>
-         <re_number_floors>0</re_number_floors>
-         <house_type>8</house_type>
-         <year_built>1901</year_built>
+         <size_living_space>20</size_living_space>
+         <size_kitchen>10</size_kitchen>
+         <bathroom>3</bathroom>
+         <balcony>3</balcony>
+         <floor>1</floor>
+         <re_number_floors>2</re_number_floors>
+         <house_type>2</house_type>
+         <year_built>1991</year_built>
          <coordinates>52.954324,30.085046</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
          <flat_repair>1</flat_repair>
@@ -39,8 +39,8 @@
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся квартира]]></subject>
-         <body><![CDATA[150 минутах ходьбы от Жлобина.]]></body>
+         <subject><![CDATA[Продаётся 2 квартира]]></subject>
+         <body><![CDATA[200 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
          <price>800000.00</price>
          <currency>BYN</currency>
@@ -70,14 +70,14 @@
          <address>Ул. Полевая</address>
       </record>
       <record>
-         <unid>5567ad9b-c09d-457a-8bcc-13edb625e182</unid>
+         <unid>5567ad9b-c09d-457a-8bcc-13edb625ef82</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся квартира]]></subject>
-         <body><![CDATA[150 минутах ходьбы от Жлобина.]]></body>
+         <subject><![CDATA[Продаётся 3 квартира]]></subject>
+         <body><![CDATA[300 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
-         <price>800000.00</price>
+         <price>900000.00</price>
          <currency>BYN</currency>
          <phone><![CDATA[+375440000000]]></phone>
          <contact_person>Продавец</contact_person>
