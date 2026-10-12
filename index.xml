@@ -2,11 +2,11 @@
 <uedb>
    <records>
       <record>
-         <unid>12bf6a1c-5f4f-4cbc-92f0-36b1a9208ce1</unid>
+         <unid>e9dd49bf-1f9f-412a-ab8b-635033f72f7d</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся 1 квартира]]></subject>
+         <subject><![CDATA[1 квартира продажа]]></subject>
          <body><![CDATA[100 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
          <price>700000.00</price>
@@ -35,11 +35,11 @@
          <address>Ул. Полевая</address>
       </record>
       <record>
-         <unid>cb0e408b-b667-439d-84ce-425c4df75fa2</unid>
+         <unid>8867c018-ddbe-43a7-95de-a27f26659d2f</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся 2 квартира]]></subject>
+         <subject><![CDATA[2 квартира продажа]]></subject>
          <body><![CDATA[200 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
          <price>800000.00</price>
@@ -70,11 +70,11 @@
          <address>Ул. Полевая</address>
       </record>
       <record>
-         <unid>5567ad9b-c09d-457a-8bcc-13edb625er83</unid>
+         <unid>9537c413-d8a2-4ac0-bd33-c849b6b88b63</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
-         <subject><![CDATA[Продаётся 3 квартира]]></subject>
+         <subject><![CDATA[3 квартира продажа]]></subject>
          <body><![CDATA[300 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
          <price>900000.00</price>
