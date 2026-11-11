@@ -58,7 +58,7 @@
          <size_living_space>0</size_living_space>
          <size_kitchen>0</size_kitchen>
          <bathroom>10</bathroom>
-         <balcony>7</balcony>
+         <balcony>0</balcony>
          <balcony>8</balcony>
          <floor>0</floor>
          <re_number_floors>0</re_number_floors>
@@ -94,15 +94,15 @@
          <size_living_space>0</size_living_space>
          <size_kitchen>0</size_kitchen>
          <bathroom>10</bathroom>
-         <balcony>7, 2</balcony>
-         <balcony>8</balcony>
+         <balcony>1.0</balcony>
+         <balcony>10</balcony>
          <floor>0</floor>
          <re_number_floors>0</re_number_floors>
-         <house_type>8</house_type>
-         <year_built>1901</year_built>
+         <house_type>10</house_type>
+         <year_built>2050</year_built>
          <coordinates>27.657920,53.895514</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
-         <flat_repair>1</flat_repair>
+         <flat_repair>3</flat_repair>
          <address>Ул. Полевая</address>
       </record>
    </records>
