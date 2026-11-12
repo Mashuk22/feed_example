@@ -2,14 +2,14 @@
 <uedb>
    <records>
       <record>
-         <unid>e9dd49bf-1f9f-412a-ab8b-635033f72f7j</unid>
+         <unid>e9dd49bf-1f9f-412a-ab8b-635033f72d8e</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
          <subject><![CDATA[1 квартира продажа]]></subject>
          <body><![CDATA[100 минутах ходьбы от Жлобина.]]></body>
          <type>sell</type>
-         <price>700000.00</price>
+         <price>00000.00</price>
          <currency>BYN</currency>
          <phone><![CDATA[+375440000000]]></phone>
          <contact_person>Продавец</contact_person>
@@ -19,7 +19,7 @@
             <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images1.jpg"/>
             <photo picture="https://raw.githubusercontent.com/Mashuk22/feed_example/refs/heads/main/images!.jpeg"/>
          </photos>
-         <rooms>10</rooms>
+         <rooms>2</rooms>
          <size>100</size>
          <size_living_space>20</size_living_space>
          <size_kitchen>10</size_kitchen>
@@ -28,14 +28,14 @@
          <floor>1</floor>
          <re_number_floors>2</re_number_floors>
          <house_type>2</house_type>
-         <year_built>1991</year_built>
+         <year_built>2000</year_built>
          <coordinates>52.954324,30.085046</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
          <flat_repair>1</flat_repair>
          <address>Ул. Полевая</address>
       </record>
       <record>
-         <unid>8867c018-ddbe-43a7-95de-a27f26659d2f</unid>
+         <unid>8867c018-ddbe-43a7-95de-a27f26659a27</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
@@ -70,7 +70,7 @@
          <address>Ул. Полевая</address>
       </record>
       <record>
-         <unid>9537c413-d8a2-4ac0-bd33-c849b6b88b63</unid>
+         <unid>9537c413-d8a2-4ac0-bd33-c849b6b88a87</unid>
          <area>26</area>
          <region>7</region>
          <remuneration_type>1</remuneration_type>
@@ -92,13 +92,13 @@
          <rooms>10</rooms>
          <size>100</size>
          <size_living_space>0</size_living_space>
-         <size_kitchen>0</size_kitchen>
-         <bathroom>10</bathroom>
+         <size_kitchen>01</size_kitchen>
+         <bathroom>1.0</bathroom>
          <balcony>1.0</balcony>
          <balcony>10</balcony>
-         <floor>0</floor>
-         <re_number_floors>0</re_number_floors>
-         <house_type>10</house_type>
+         <floor>01</floor>
+         <re_number_floors>тест</re_number_floors>
+         <house_type>100</house_type>
          <year_built>2050</year_built>
          <coordinates>27.657920,53.895514</coordinates>
          <flat_ceiling_height>1</flat_ceiling_height>
